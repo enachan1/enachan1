@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nhorlvick Mangampo</h1>
 <h3 align="center">I am currently studying with a course of BS Information Technology in STI COLLEGE MEYCAUAYAN</h3>
 
-- 🌱 I’m currently learning **Javascript and the frameworks of it**
+- 🌱 I’m currently learning **Web Development**
 
 - ⚡ Fun fact **I like music**
 
